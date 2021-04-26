@@ -1,6 +1,6 @@
 
-# terraform-azure-functions
-The purpose of this repo is to provide a base terraform modules for deploying azure resource group. 
+# tf-az-appinsights
+The purpose of this repo is to provide a base terraform modules for deploying azure app insights. 
 
 ## Example Invocation:
 Calling function:
